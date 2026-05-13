@@ -1,0 +1,238 @@
+A  B  C  D  E  F  G
+Bass Clef - also known as the F Clef (two dots are above and below the F line)
+Treble Clef - also known as the G Clef (the spiral circles around the G line)
+Key signature is ignored - All examples and exercises are in the key of C.  More on this later.  Ignore for 
+now.
+A
+	B
+C
+	D
+E
+	F
+G
+	A
+B
+	C
+D
+	E
+F	
+	G
+
+Memorize these four sequences;
+FACE
+GBD
+ACEG
+BDF
+ 
+
+Treble Clef
+The bottom 3 ledger lines in sequence from bottom to top (and including the bottom line of the staff) 
+are F A C and E.  The top three ledger line (starting with the top line of the staff are F A C and E). 
+Since the lines and spaces alternate in an even manner and there are an odd number of notes (7) each 
+note as it occurs next higher on the staff or ledger lines alternates between a space and a line.  Since the 
+bottom ledger lines are F A C and E the next occurrence of F A C and E will have to be on spaces.  The 4 
+spaces that make up the staff are F A C and E.  This is shown in the diagram below.  
+The spaces between the ledger lines as well as he center 3 lines of the staff are G B and D.  If you 
+memorize F A C and E as well as G B and D and remember that they alternate between spaces and lines 
+you will always know which note is represented by each space or line. 
+ 
+Remember that the bottom ledger lines (with the bottom line of the staff) and the top ledger lines (with 
+the top line of the staff) are F A C and E and the spaces between are G B and D.  The middle 3 lines of the 
+staff are also G B and D and the spaces of the staff are F A C and E.
+
+
+ E	_____     ledger line
+	
+C	_____     ledger line
+
+A	_____     ledger line
+
+F___________________
+E
+______D____________
+C
+______B____________
+A
+______G____________
+F
+E___________________
+	D
+ C	_____	ledger line
+	B
+A	_____	ledger line	
+	G
+F	_____	ledger line
+ 
+
+
+
+
+
+Bass Clef
+The bottom 3 ledger lines in sequence from bottom to top (and including the bottom line of the staff) 
+are A C E and G.  The top three ledger lines (starting with the top line of the staff are A C E and G). 
+Since the lines and spaces alternate in an even manner and there are an odd number of notes (7) each 
+note as it occurs next higher on the staff or ledger lines alternates between a space and a line.  Since the 
+bottom ledger lines are A C E and G the next occurrence of A C E and G will have to be on spaces.  The 4 
+spaces that make up the staff are A C E and G.  This is shown in the diagram below.  
+The spaces between the ledger lines as well as he center 3 lines of the staff are B D and F.  If you 
+memorize A C E and G as well as B D and F and remember that they alternate between spaces and lines 
+you will always know which note is represented by each space or line. 
+ 
+Remember that the bottom ledger lines (with the bottom line of the staff) and the top ledger lines (with 
+the top line of the staff) are A C E and G and the spaces between are B D and F.  The middle 3 lines of the 
+staff are also B D and F and the spaces of the staff are A C E and G.
+
+
+G	_____     ledger line
+	F
+E	_____     ledger line
+	D
+C	_____     ledger line
+	B
+A___________________
+G
+______F____________
+E
+______D____________
+C
+______B____________
+A
+G__________________
+	F
+ E	_____	ledger line
+	D
+C	_____	ledger line	
+	B
+A	_____	ledger line
+
+
+
+
+Intervals,Major Scale, Sharps, Flats and Enharmonics
+An interval is the musical difference between two notes
+The smallest interval is a half-step 
+You can think of it as the distance between one key on the piano and the very next one regardless of the 
+color of either key.  
+The next interval is a whole step  - the distance between two keys skipping the one (and only one) in 
+between (color of any of the keys doesn't matter )
+The white keys on the piano are named for the 7 letters.  The 2 white keys that are next to each other 
+and to the left of the set with the two black keys are B and C.  The 2 white keys that are next to each 
+other and between the set of keys with the 2 black keys on their left and the 3 black keys on their right.
+The white key between the two black keys is D.  The white keys between the 3 black keys are G on the 
+left and A on the right.
+The black keys are named after the white keys they are next to depending on the scale that is 'in play' 
+(more on this later) at the time.  The leftmost black key of the set of two is C# (C sharp) or Db (D flat).  
+The rightmost black key of the set of two is D# (D sharp) or Eb (E flat).  The other 3, left to right are 
+F#/Gb, G#/Ab and A#/Bb.
+
+All of the natural notes (neither sharp nor flat) are 1 whole step (2 half steps) apart 
+EXCEPT;
+ B and C  which are 1 half step apart (note they are not separated by a black key)
+E and F   also 1 half step apart  (note they are not separated by a black key)
+Any note and its sharp (or any note and its flat) are 1 half step apart
+
+
+D and D# are 1 half step apart as are D and Db
+A and A# are 1 half step apart as are A and Ab
+2 notes can have the same name - they are called Enharmonic notes
+C# and Db,  D# and Eb, E# and F,(E and Fb) F# and Gb, G# and Ab, A# and Bb, B# and C (B and Cb)
+You would rarely speak of Cb or Fb or B# or E# 
+
+The C major scale is made up of only the white keys on the piano.  There are no sharps and no flats.
+Starting with the C (the white key to the left of the 2 black keys that are together) you will see that the 
+first 3 notes have a black key (which is not used in the scale) between them.  This tells us there is a 
+whole step between the first two white keys (C and D) since there is a black key (which is a half step 
+from the white keys) and a whole step between the next two white keys (D and E) for the same reason.
+The next two white keys are right next to each other (E and F) - they are a half step apart. 
+The F and G , G and A and A and B are all separated by a black key so they are whole steps apart - that is 
+3 whole steps in a row.  The final two notes in the scale (B and C) are next to each other so we end on a 
+half step.  You can see that this shows us how the major scale is defined.  You can always use that as a 
+reference if you forget.
+The Major Scale is defined as;
+A Whole Step
+A Whole Step
+A Half Step
+A Whole Step
+A Whole Step
+A Whole Step
+A Half Step
+Or (Whole, Whole, Half, Whole, Whole, Whole, Half)
+It can be described as two sequences of (Whole, Whole, Half) separated by a Whole step.  You don't 
+need to remember this at this time but the sequence of (Whole, Whole Half) is called a tetrachord.
+The first note of each scale is called the 'root note' or 'the 1'.
+The second note of each scale is called the 'second' or 'the 2'.
+The third note of each scale is called 'the third' or '3', the fourth note is 'the fourth' or '4', the fifth is 
+'the fifth' or '5', the sixth is 'the sixth' or '6'.
+It goes that way for all of the notes up to the seventh or 'the 7' ending with the octave which is 'the 
+root' again.
+The 'second', the 'third', the 'fourth' etc can also refer to the distance between that note and the 'first' 
+or root note.
+Using the C major scale for an example:
+An interval of 'a second' is always a whole step (e.g. C and D)
+An interval of 'a third' is always two whole steps (e.g. C and E)
+An interval of 'a fourth' is always two whole steps and a half step (C and F) (this is a tetrachord - tetra 
+means 4)
+An interval of 'a fifth' is always two whole steps, a half step and another whole step (C and G) 
+It can also be referred to as 3 whole steps and a half step.
+An interval of 'a sixth' is always 4 whole steps and a half step (C and A)
+An interval of 'a seventh' is always 5 whole steps and a half step (A and B)
+Using the G major scale we have 
+The second (G and A)
+The third (G and B)
+The fourth (G and C)
+The fifth (G and D)
+The sixth (G and E)
+The seventh (G and F#)
+
+
+
+
+
+The Major Scale always starts (and ends) on the note named by the Key Signature. This is called the Root 
+Note or just 'the root'
+The C Major Scale would then start on the C Note
+C D E F G A B C
+The G Major Scale would start on the G Note.
+G A B C D E F# G
+ 
+Key Signatures
+Memorize this sequence 'B E A D G C F' (backwards and forwards) 
+(Remember the word Bead and then GCF but then you have to remember to move the F)
+
+F B E A D G C (flats) [we will use this later for the circle of fourths]
+C G D A E B F (sharps) [we will use this later for the circle of fifths]
+
+Flats;
+Key of F - one flat (Bb) - B is the next letter after F)
+Key of Bb - two flats (Bb and Eb) E is the next letter after B
+Key of Eb - three flats (Bb, Eb and Ab) A is the next letter after E
+Key of Ab - four flats (Bb, Eb, Ab and Db) D is the next letter after A
+Key of Db - five flats (Bb, Eb, Ab, Db and Gb) G is the next letter after D
+Each subsequent key signature has the same flatted notes as the previous key signature plus 1 more
+And they are always added in the same order
+
+This last one is almost never seen and can safely be ignored
+Key of Gb - six flats (Bb, Eb, Ab, Db, Gb and Cb/B) C is the next letter after G
+
+You can always know which new note to make sharp - the one before (alphabetically) the one the
+Key signature is named after;  e.g. G ==> F# , D ==> C#, A==>G#, etc...always in the same order
+Key of C - No Sharps or Flats
+Key of G - 1 sharp (F#)  
+Key of D - 2 sharps (F# and C#)
+Key of A - 3 sharps (F#, C#, G#)
+Key of E - 4 sharps (F#, C#, G# and D#)
+Key of B - 5 sharps (F#, C#, G#, D# and A#)
+These last two are rare and can be safely ignored for now  They are shown here for completeness.
+Key of F# - 6 sharps (F#, C#, G#, D#, A# and E#/F)
+Key of C# - 7 sharps (F#, C#, G#, D#, A#, E#/F and B#/C)
+
+They alternate between the 'sets of black keys' the first of the set of 3 then the first of the set of 2
+Then the 2nd of the set of 3 then the second of the set of 2 then the 3rd of the set of 3
+C has no sharps
+G has one - the leftmost of the set of three black keys
+D has two - the one from G and the leftmost of the set of two black keys
+A has three - the two from D and the middle one from the set of three
+E has four - the three from A and the rightmost one from the set of two
+B has five - the four from above and the rightmost one from the set of three
+

@@ -1,0 +1,46 @@
+Goal: provide the minimum music theory to support teaching the fretboard layout on guitar and basic sightreading. Throw in a pun about 'string theory' for fun
+The fretboard section will include: 
+	the chromatic nature of the frets per string, the 4th/3rd intervals between the strings.
+	the intervals between the frets per string; third fret - m3, fifth fret 4th, 7th fret 5th etc
+	knowing(learning) the note names of all the first 12 frets on all the strings
+	forming 12 major and 12 minor triads on each of the 4 3 adjacent string sets (inversions)
+	knowing 1 open chord shape for C A G E D (and identify the voicing - notes in that particular voicing)
+	knowing 1 moveable chord shape for A G and C (and identify the voicing - notes in that particular voicing)
+	knowing where the third is in each voicing and how to adjust the chord to minor
+	knowing the relationship between two adjacent strings where the fifth fret is the same note as the next higher string and the 7th fret is the same note as the next lower string (the relationship between the 4th and the 5th)
+	the three note per string scale shape starting on 6th string and starting on 5th string (major and minor)
+	introduce the topic of chord tone soloing (or noodling)
+	
+	
+I don't intend to address modes, extended chords (beyond the 7th), augmented, suspended diminished (except in the diatonic section addressing the 7th - after that ignore the 7th)	
+	
+	
+Section 1:
+introduce the note name alphabet (we should include a one or two octave image of a piano keyboard showing the arrangement of black keys and white keys).  That will help introduce the concept of half steps and the distance between notes
+Define the chromatic scale, introduce the concept of sharps, flats and enharmonics.
+Introduce the major and natural minor scales and their WWHWWWH or WHWWHWW structure. maybe mention Harmonic and melodic for completeness but maybe not...
+Introduce intervals.  Show how they can refer to the ordinal(?) position of the note in the scale as well as the distance between two notes (I think it can be confusing to refer to a note as a fourth and the distance between the 3rd and the 6th as a fourth if you haven't made the distinction clear)
+Interval naming - I am ambivalent about introducing Perfect Fourth and Perfect Fifth at this point.  I do want to introduce minor 3rd vs major third etc.  I don't necessarily want to address augmented or diminished intervals but it might be easier than dealing with critics saying that flat four or sharp five is incorrect. It is probably not that much more to remember to use Perfect, Augmented, or Diminished
+
+Section 2:
+introduce Major, minor and seventh chords and show the special case of triads vs guitar chord voicings.  (define 'voicing')
+describe inversions in basic terms - just enough to support the 12 shapes of triads on the fretboard later on
+how to name the major minor and 7th chords. I am ambivalent to mention other more advanced chords other than to say other types of chords exist.  
+describe the nature of 'stacking thirds' to build the basic chords.
+Introduce the 'key concept'(pun) of diatonics and key signatures.  introduce the circle of fifths(cw) and fourths (ccw) and how sharps and flats are added.  Use the mnemonic  of BEAD (the word bead) and GCF (the letters) Counterclockwise they are Bflat, Eflat, Aflat etc and clockwise they are Dnatural, Anatural , Enatural etc even though they contain sharps - they don't start on a Sharp but most of the CCW notes do start on a flat.  As you travel ccw you keep all the previous flats and add the flat of the next note in the circle - bflat keeps the bflat from F and adds the next note which is Eflat
+as you travel cw from the C at the top you add sharps one at a time in order of F#, C#, G#, D#, A# etc
+
+Section 3:  we shouldn't leave out rhythm but just a basic introduction - enough to support some basic strumming patterns on the guitar.  3/4 and 4/4 time while mentioning there are others.  basic timing of whole, half, quarter notes down to 32nds with symbols for the notes and rest.  don't address accents, staccato, legato, tempo (except in basic terms of 'how fast' but not adagio...etc) don't address stave markings like 'repeat' but do address the lines between measures
+we can determine if we need to address connecting notes and/or 'beam'ing them since the sight reader could encounter those while practicing and could be confused.
+
+Section 4: the guitar stuff from the goals above
+
+Section 5: (maybe an appendix)  Intro to sightreading
+introduce Clefs and Staves, key signatures,   lines spaces and ledger lines I don't see a need for anything more at this point.
+landmarks: e.g. C above treble has two ledger lines just as the C below the bass clef does.  the C below the treble has 1 ledger line and the C above the bass cleff.   The treble clef symbol wraps around the G, the bass clef has 2 dots around the F.  the note names for the spaces spell FACE but not just a mnemonic but also chord spelling of F and A (the type of chord depending on the key )  and not just the spaces between the lines.  the ledger lines above and below the stave also spell FACE (seven notes mean they alternate from lines to spaces to lines)
+The center 3 lines on the treble clef spell out the G chord GBD as do the spaces between the ledger lines.
+
+<The chords defining the lines and spaces of the bass clef are not as intuitive as are the ones on the treble clef, perhaps because I 'discovered' them later - maybe we can change that for future generations>   The spaces of the stave are the extended chord ACEG [or two chord ACE and CEG ][point out the continuity of how the chords can overlap) (taught to children as all cars eat gas or all cows eat grass - which misses an opportunity to teach chords IMHO)  I am not opposed to a mnemonic in conjunction with the chord info.  again, not just the spaces of the stave but the ledger lines above and below the bass clef stave.  The middle lines of the bass clef are BDF (I have always thought of it as lesser since it is diminished in Cmajor - but that is something I want to avoid passing on)
+this, too, applies to the spaces between the ledger lines above and below the bass clef stave (is it enough to say bass clef and it be understood to refer to the entire stave and not just the clef symbol?)
+The reader should be shown how the note on the line corresponds to a key on the keyboard of the piano or to one or more fret string combinations on the guitar.
+lastly I want to show how chords with the same letter names for a given octave are always in the same position but that the key signature can change their character.  maybe demonstrate a six note E chord on guitar but point out the simplicity of how the chord looks making it instantly recognizable and, therefore, simple to read. (my sight reading app will need to incorporate this concept )
