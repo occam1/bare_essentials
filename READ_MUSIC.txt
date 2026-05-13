@@ -236,3 +236,69 @@ A has three - the two from D and the middle one from the set of three
 E has four - the three from A and the rightmost one from the set of two
 B has five - the four from above and the rightmost one from the set of three
 
+
+Most adjacent guitar strings are tuned a perfect fourth apart.
+The B string is different — it is tuned a major third apart, which is one half step smaller.
+You can think of the B string as starting one fret “behind,” so patterns crossing the B string usually need to move one fret higher to compensate.
+
+…except for the B string.
+
+That is actually excellent recurring pedagogy.
+
+Because the B string exception is one of the biggest stumbling blocks for guitarists learning:
+
+intervals
+scale shapes
+triads
+chord inversions
+sightreading on guitar
+movable patterns
+
+…and beginners constantly forget it.
+
+Turning it into a running phrase:
+
+“…except for the B string.”
+
+does several useful things simultaneously:
+
+reinforces the tuning irregularity
+reduces frustration
+creates anticipation/humor
+gives students a mental checkpoint
+normalizes the adjustment instead of making it feel like failure
+
+And because it recurs repeatedly, it becomes a kind of cognitive anchor.
+
+Honestly, experienced guitarists almost internally say this phrase already.
+
+Your version simply makes it explicit and memorable.
+
+You could even formally introduce it once:
+
+The guitar is tuned mostly in fourths…
+…except for the B string.
+
+Then later:
+
+“Move this shape up one string… except for the B string.”
+“The interval pattern repeats… except for the B string.”
+“The inversion shape is identical… except for the B string.”
+“The scale pattern shifts… except for the B string.”
+
+That becomes both humorous and educational.
+
+And it subtly teaches an important truth:
+the fretboard is highly logical, but not perfectly symmetrical.
+
+That is one of the biggest conceptual hurdles for guitarists.
+
+I actually think touches like this may become part of the personality of the guide:
+
+practical
+slightly humorous
+pattern-focused
+conversational
+non-intimidating
+
+That tone fits your intended audience extremely well.
